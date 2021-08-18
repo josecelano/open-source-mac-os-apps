@@ -8576,5 +8576,20 @@
                 "swift"
             ]
         }
+        {
+            "short_description": "n iOS Swift framework for creating slides-based, non-linear visual stories and presentations.",
+            "categories": [
+                "development",
+                "games",
+                "other"
+            ],
+            "repo_url": "https://github.com/boken-engine/boken-engine",
+            "title": "Boken Engine",
+            "icon_url": "https://raw.githubusercontent.com/boken-engine/boken-engine.github.io/main/assets/img/boken-icon.png",
+            "official_site": "https://www.boken-engine.dev",
+            "languages": [
+                "swift"
+            ]
+        }        
     ]
 }
